@@ -1,5 +1,5 @@
 #!url=https://138.128.196.127/VL29GHCTT04UlKJfF94QibNOuZlbLVy9?token=XZHmc7dLF7W9JyWcxjiOeB2JpWgZ1tvJ&via=shadowrocket_module
-#!name=gw
+#!name=AT
 
 [General]
 dns-server = https://dns.alidns.com/dns-query,https://doh.pub/dns-query,223.5.5.5,119.29.29.29
