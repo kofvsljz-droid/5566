@@ -1,0 +1,7 @@
+#!url=https://138.128.196.127/LN2dhlG5L6ffVNOuZQF4CqEnGW3LhM2d?token=odo126xPJcFpLOCWOd39NmnHsgPHE5pc&via=shadowrocket_module
+#!name=at06
+
+[General]
+dns-server = https://dns.alidns.com/dns-query,https://doh.pub/dns-query,223.5.5.5,119.29.29.29
+proxy-dns-server = https://nnpzcuv0-qd3mqgr3-r2ubcdqn.free-flying-white-doves.net/dns-query/750cbb12-8ac1-4fb1-8833-5352af57f01e,https://dqlqq8kq-rdogn5fy-yg1hydjb.soaring-in-outer-space.com/dns-query/750cbb12-8ac1-4fb1-8833-5352af57f01e,https://c6p1qqxw-vwrhb42b-ir7o2c1f.free-flying-white-doves.net/dns-query/750cbb12-8ac1-4fb1-8833-5352af57f01e,https://k74dnb4rxxakot6e-rv2fyadi7gtckgvn.soaring-in-outer-space.com/dns-query/750cbb12-8ac1-4fb1-8833-5352af57f01e
+fallback-dns-server = system
